@@ -1,1 +1,1 @@
-# streaming_face_capture
+# どんな動画配信サービスからでも顔画像が取得できるAI
