@@ -1,3 +1,3 @@
 # どんな動画配信サービスからでも顔画像が取得できるAI
-GoogleChrome上でほしい顔画像の出ている動画を流してstreaming_face_capture.pyを実行するだけ。
+GoogleChrome上でほしい顔画像の出ている動画を流してstreaming_face_capture.pyを実行するだけ。  
 注意点：動画が最前面にないと正しくキャプチャしてくれません。
